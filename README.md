@@ -1,6 +1,4 @@
-${{ secrets.GITHUB_TOKEN }}# NEW-USER
-DAY 1 ON GITHUB (IDK WHAT IS THIS APK) 
-[![@shirshkumar69's Holopin board]
+
 
 <h1 align="center">Hi 👋, I'm shirshkumar69</h1>
 <h3 align="center">A passionate developer from India</h3>
